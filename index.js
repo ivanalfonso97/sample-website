@@ -1,6 +1,5 @@
 const colorSchemeArr = [
     "monochrome", 
-    "monochrome-dark", 
     "monochrome-light", 
     "analogic", 
     "complement", 
